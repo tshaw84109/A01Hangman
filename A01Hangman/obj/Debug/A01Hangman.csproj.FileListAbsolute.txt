@@ -1,0 +1,7 @@
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\bin\Debug\A01Hangman.exe.config
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\bin\Debug\A01Hangman.exe
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\bin\Debug\A01Hangman.pdb
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\obj\Debug\A01Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\obj\Debug\A01Hangman.exe
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\obj\Debug\A01Hangman.pdb
+C:\Users\Darmok at Tanagra\Desktop\Soft Eng 1\Assignments\A01Hangman\A01Hangman\obj\Debug\A01Hangman.csprojAssemblyReference.cache
